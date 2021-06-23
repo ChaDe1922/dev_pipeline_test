@@ -1,0 +1,74 @@
+{
+ "sections": [
+  {
+   "id": "96759eda-ca7e-a90c-06c4-a485b4c70bfb",
+   "title": "Instructor Notes",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Instructor-Notes-9675.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": true,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "979e4172-e40d-957e-76e3-26540b966724",
+   "title": "Setup a style checker on your repos",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Setup-a-style-checker-on-your-repos-979e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "7dcb4f13-2b9d-7347-7fdf-8e3fb5fe76fe",
+   "title": "Badges",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Badges-7dcb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "4f49309c-1ab1-2514-d979-344fcac0f460",
+   "title": "Finish your API project",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Finish-your-API-project-4f49.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": true,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

@@ -1,0 +1,29 @@
+{
+ "name": "Basic Data Visualization",
+ "children": [
+  {
+   "title": "Instructor Notes",
+   "id": "96759eda-ca7e-a90c-06c4-a485b4c70bfb",
+   "pageId": "96759eda-ca7e-a90c-06c4-a485b4c70bfb",
+   "type": "page"
+  },
+  {
+   "title": "Setup a style checker on your repos",
+   "id": "979e4172-e40d-957e-76e3-26540b966724",
+   "pageId": "979e4172-e40d-957e-76e3-26540b966724",
+   "type": "page"
+  },
+  {
+   "id": "1189f323-a866-ba13-a4ac-d6e588a3b269",
+   "title": "Badges",
+   "pageId": "7dcb4f13-2b9d-7347-7fdf-8e3fb5fe76fe",
+   "type": "page"
+  },
+  {
+   "id": "783d5821-4e6d-1d77-7cf1-182c332519ae",
+   "title": "Finish your API project",
+   "pageId": "4f49309c-1ab1-2514-d979-344fcac0f460",
+   "type": "page"
+  }
+ ]
+}
