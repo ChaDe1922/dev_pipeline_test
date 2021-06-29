@@ -101,3 +101,6 @@ https://github.com/marketplace/actions/wemake-python-styleguide
 ### Live Coding
 Don't just show learners an already built system -- start from absolute scratch like they'll be doing and MAKE MISTAKES! Normalize making the mistake -- everyone does it. Normalize asking for help -- everyone should do it. Model how to listen to someone's suggestion and try it out -- they will be doing paired programming and need to see good examples of how navigators can support drivers.
 
+## Example Solution to Activity
+[https://github.com/edeitrick/python-style-checker-example](https://github.com/edeitrick/python-style-checker-example)
+
