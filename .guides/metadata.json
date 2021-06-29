@@ -65,12 +65,30 @@
     {
      "path": "#tabs",
      "action": "close"
+    },
+    {
+     "path": "styleTest.py",
+     "panel": 0,
+     "action": "open"
     }
    ],
-   "layout": "1-panel",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Assessments-f5d5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "fa05f6dd-d1a8-6270-a459-a789165f42f9",
+   "title": "Assessment 2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Assessment-2-fa05.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

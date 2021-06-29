@@ -30,6 +30,12 @@
    "title": "Assessments",
    "pageId": "f5d5322e-4d6a-1b80-fa55-b532da53f8b1",
    "type": "page"
+  },
+  {
+   "id": "897317df-e78d-408c-d2e6-4e0dd5a39e76",
+   "title": "Assessment 2",
+   "pageId": "fa05f6dd-d1a8-6270-a459-a789165f42f9",
+   "type": "page"
   }
  ]
 }

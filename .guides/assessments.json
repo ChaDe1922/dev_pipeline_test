@@ -49,5 +49,58 @@
    "bloomsObjectiveLevel": "",
    "learningObjectives": ""
   }
+ },
+ {
+  "type": "code-output-compare",
+  "taskId": "code-output-compare-2688601641",
+  "source": {
+   "name": "1. Apply a style guide to their code",
+   "showName": false,
+   "instructions": "Click the \"Check It!\" button when you are ready to submit your response.",
+   "command": "pycodestyle --first styleTest.py",
+   "preExecuteCommand": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "points": 20,
+   "oneTimeTest": false,
+   "options": {
+    "ignoreCase": true,
+    "ignoreWhitespaces": true,
+    "ignoreNewline": true,
+    "matchSubstring": false,
+    "timeout": 30
+   },
+   "showExpectedAnswer": true,
+   "arePartialPointsAllowed": false,
+   "sequence": [
+    {
+     "arguments": "",
+     "input": "",
+     "output": "",
+     "showFeedback": false,
+     "feedback": ""
+    }
+   ],
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Standard Code Test"
+     }
+    ],
+    "files": [
+     "styleTest.py"
+    ],
+    "opened": [
+     {
+      "type": "file",
+      "panelNumber": 0,
+      "content": "styleTest.py"
+     }
+    ]
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
  }
 ]
