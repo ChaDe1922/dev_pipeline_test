@@ -20,7 +20,7 @@ In industry, what happens after a developer writes code and pushes it to Github?
    1. Deployment
    
 1.1 Static Analysis
-Static code analysis is a general term for algorithms that check code. There are tons of static analysis tools out there which check everything from attempting to detect bugs to checking style. Sometimes these tools are refered to as linters.
+Static code analysis is a general term for algorithms that check code. There are tons of static analysis tools out there which check everything from attempting to detect bugs to checking style. Sometimes these tools are referred to as linters.
 
 **2.0 Style Guides**
 Why might a company or group of developers want to follow a style guide?
@@ -28,7 +28,7 @@ Why might a company or group of developers want to follow a style guide?
   
   Example reasons:
   * Makes large code bases easier to read
-  * Gives developers consistant exerpeince (ex. maximum line length)
+  * Gives developers consistent experience (ex. maximum line length)
   * Agreed upon rules make code reviews faster/easier
 
 2.1 PEP 8
@@ -72,7 +72,7 @@ Live code...
 1. Re-run linter to show there are no more errors
 
 **3.0 CI**
-Continous integration is a setup that provides developers automated feedback every time they integrate their code into a repository (hopefully many times a day). There are tons of tools for this (maybe list a few you have used or that are popular). Instead of manually re-running a style checker, you can setup CI so that you get feedback on your style every time you commit.
+Continuous integration is a setup that provides developers automated feedback every time they integrate their code into a repository (hopefully many times a day). There are tons of tools for this (maybe list a few you have used or that are popular). Instead of manually re-running a style checker, you can setup CI so that you get feedback on your style every time you commit.
 
 3.1 Github Actions
 To keep things simple, we are going to start our CI journey with Github Actions. 

@@ -1,0 +1,53 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-181652232",
+  "source": {
+   "name": "1. Explain the purpose of Style Guides",
+   "showName": false,
+   "instructions": "Which of the following is **not** a reason to use a style guide?",
+   "multipleResponse": false,
+   "isRandomized": true,
+   "answers": [
+    {
+     "_id": "cfbacef8-a487-e3e8-9ba7-3dbceac2eb8a",
+     "correct": true,
+     "answer": "To tell the web browser how to render a webpage."
+    },
+    {
+     "_id": "414bc8d4-53da-5361-59f4-37ea9a135d76",
+     "correct": false,
+     "answer": "To give developers a consistent coding experience"
+    },
+    {
+     "_id": "d5f2858c-1f4d-e3e7-d66a-0fb51a50d1e8",
+     "correct": false,
+     "answer": "To specify when indention is appropriate when coding."
+    },
+    {
+     "_id": "439568ca-fa18-306b-4903-0c3a68825dc7",
+     "correct": false,
+     "answer": "To make it easier to understand large codebases"
+    }
+   ],
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "points": 20,
+   "incorrectPoints": 0,
+   "arePartialPointsAllowed": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]

@@ -57,6 +57,25 @@
    "teacherOnly": false,
    "closeTerminalSession": true,
    "learningObjectives": ""
+  },
+  {
+   "id": "f5d5322e-4d6a-1b80-fa55-b532da53f8b1",
+   "title": "Assessments",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Assessments-f5d5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "closeTerminalSession": true,
+   "learningObjectives": ""
   }
  ],
  "theme": "light",
